@@ -1,0 +1,6 @@
+com\example\demo\DemoApplication.class
+com\example\beans\Student.class
+com\example\beans\StudentRegistrationController.class
+com\example\beans\StudentRegistrationReply.class
+com\example\beans\StudentRetrieveController.class
+com\example\beans\StudentRegistration.class
